@@ -171,7 +171,7 @@ npm run preview
 
 The build output will be in the `dist/` directory, ready for deployment to any static hosting service.
 
-## 🤝 If you are Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
